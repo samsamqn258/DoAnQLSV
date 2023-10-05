@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\DoAnQLSV_LTWINDOWS\DoAnQLSV\obj\Debug\DoAnQLSV.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DoAnQLSV_LTWINDOWS\DoAnQLSV\obj\Debug\DoAnQLSV.GUI.Main.resources
+C:\Users\ASUS\source\repos\DoAnQLSV_LTWINDOWS\DoAnQLSV\obj\Debug\DoAnQLSV.Properties.Resources.resources
+C:\Users\ASUS\source\repos\DoAnQLSV_LTWINDOWS\DoAnQLSV\obj\Debug\DoAnQLSV.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DoAnQLSV_LTWINDOWS\DoAnQLSV\obj\Debug\DoAnQLSV.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DoAnQLSV_LTWINDOWS\DoAnQLSV\bin\Debug\DoAnQLSV.exe.config
+C:\Users\ASUS\source\repos\DoAnQLSV_LTWINDOWS\DoAnQLSV\bin\Debug\DoAnQLSV.exe
+C:\Users\ASUS\source\repos\DoAnQLSV_LTWINDOWS\DoAnQLSV\bin\Debug\DoAnQLSV.pdb
+C:\Users\ASUS\source\repos\DoAnQLSV_LTWINDOWS\DoAnQLSV\obj\Debug\DoAnQLSV.exe
+C:\Users\ASUS\source\repos\DoAnQLSV_LTWINDOWS\DoAnQLSV\obj\Debug\DoAnQLSV.pdb
